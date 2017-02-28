@@ -24,7 +24,11 @@ github_username:  Sundy-Young
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: Cayman
+=======
+theme: jekyll-theme-cayman
+>>>>>>> origin/master
 exclude:
   - Gemfile
   - Gemfile.lock
