@@ -24,7 +24,7 @@ github_username:  Sundy-Young
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 exclude:
   - Gemfile
   - Gemfile.lock
